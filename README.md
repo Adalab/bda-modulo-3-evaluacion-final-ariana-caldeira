@@ -50,7 +50,7 @@ These functions help streamline the analysis and keep the notebook organized and
 
 **Usage**
 - Clone the repository:
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/Adalab/bda-modulo-3-evaluacion-final-ariana-caldeira.git
 
 - Open the notebook EF_modulo_3_DA_Ariana.ipynb in VSCode or Jupyter Notebook.
 - Load the CSV files from the same folder and run the cells.
@@ -109,7 +109,7 @@ Estas funciones permiten agilizar el análisis y mantener el notebook más orden
 
 **Uso**
 - Clonar el repositorio:
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/Adalab/bda-modulo-3-evaluacion-final-ariana-caldeira.git
 
 - Abrir el notebook EF_modulo_3_DA_Ariana.ipynb en VSCode o Jupyter Notebook.
 - Cargar los CSV desde la misma carpeta y ejecutar las celdas.
